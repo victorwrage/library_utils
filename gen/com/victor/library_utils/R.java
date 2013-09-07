@@ -12,6 +12,10 @@ public final class R {
     }
     public static final class drawable {
         public static int ic_launcher=0x7f020000;
+        public static int mm_listitem_normal=0x7f020001;
+        public static int mm_listitem_pressed=0x7f020002;
+        public static int voice_rcd_btn_nor=0x7f020003;
+        public static int voice_rcd_btn_pressed=0x7f020004;
     }
     public static final class string {
         public static int app_name=0x7f030000;

@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+/**
+ * @firm 长沙江泓信息技术有限公司
+ * 
+ * @author xiaoyl
+ * @date 2013-08-09
+ * 
+ * @package 图片方面的帮助包
+ * 
+ */
+package com.victor.utils.bitmap;
